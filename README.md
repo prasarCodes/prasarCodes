@@ -41,15 +41,16 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prasarCodes&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&card_width=420px&hide_title=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=prasarCodes&theme=transparent&hide_border=true&card_width=420px)
+![](https://github-readme-stats.vercel.app/api?username=prasarCodes&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&card_width=420px&hide_title=true&show_icons=true)&emsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=prasarCodes&theme=transparent&hide_border=true&card_width=420px)&emsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasarCodes&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=420px&hide_title=true)
 
 <br>
 
 ## 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/pratyay-sarkar/"><img src="https://user-images.githubusercontent.com/55887682/235256793-b0b5c3f5-8016-4243-95d8-0f920299fcc3.png" width="30px" alt="LinkedIn"></a> 
-<a href="https://www.instagram.com/__prasar__/"><img src="https://user-images.githubusercontent.com/55887682/235256819-0f87192a-ab70-4f6f-9c0e-bdbd2a5918fe.png" width="30px" alt="Instagram"></a> 
+
+<a href="https://www.linkedin.com/in/pratyay-sarkar/"><img src="https://user-images.githubusercontent.com/55887682/235256793-b0b5c3f5-8016-4243-95d8-0f920299fcc3.png" width="30px" alt="LinkedIn"></a>&emsp;
+<a href="https://www.instagram.com/__prasar__/"><img src="https://user-images.githubusercontent.com/55887682/235256819-0f87192a-ab70-4f6f-9c0e-bdbd2a5918fe.png" width="30px" alt="Instagram"></a>&emsp;
 <a href="https://twitter.com/__prasar__"><img src="https://user-images.githubusercontent.com/55887682/235256891-d57a100f-2495-4541-96e8-39a71cbb884c.png" width="30px" alt="Twitter"></a>
 
 
