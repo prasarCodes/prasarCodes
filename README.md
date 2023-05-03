@@ -53,7 +53,9 @@
 <a href="https://www.instagram.com/__prasar__/"><img src="https://user-images.githubusercontent.com/55887682/235256819-0f87192a-ab70-4f6f-9c0e-bdbd2a5918fe.png" width="30px" alt="Instagram"></a>&emsp;
 <a href="https://twitter.com/__prasar__"><img src="https://user-images.githubusercontent.com/55887682/235256891-d57a100f-2495-4541-96e8-39a71cbb884c.png" width="30px" alt="Twitter"></a>
 <br>
- 
+### or drop an Email at:
+<a href="mailto:hi@pratyay.email">hi@pratyay.email</a><br>
+
 ---
 
 ![Snake animation](https://github.com/prasarCodes/prasarCodes/blob/output/github-contribution-grid-snake.svg)
