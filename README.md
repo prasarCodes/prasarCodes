@@ -2,13 +2,16 @@
 
 # 💫 Hi!👋, Pratyay here!<br>
 
+<div align="left">
 🔭 I’m currently working on improving my skills<br>
 👯 I’m looking to collaborate on open-source projects<br>
 🤝 I’m looking for help with everything<br>
 🌱 I’m currently learning Cloud and DevOps<br>
 💬 Ask me about anything
+</div>
 
 <br>
+
 
 # 💻 Tech Stack
 <div align="center">
@@ -42,7 +45,6 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=prasarCodes&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&card_width=420px&hide_title=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=prasarCodes&theme=transparent&hide_border=true&card_width=420px)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasarCodes&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=420px&hide_title=true)
 
 <br>
