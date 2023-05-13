@@ -51,10 +51,12 @@
 
 <a href="https://www.linkedin.com/in/pratyay-sarkar/"><img src="https://user-images.githubusercontent.com/55887682/235256793-b0b5c3f5-8016-4243-95d8-0f920299fcc3.png" width="30px" alt="LinkedIn"></a>&emsp;
 <a href="https://www.instagram.com/__prasar__/"><img src="https://user-images.githubusercontent.com/55887682/235256819-0f87192a-ab70-4f6f-9c0e-bdbd2a5918fe.png" width="30px" alt="Instagram"></a>&emsp;
-<a href="https://twitter.com/__prasar__"><img src="https://user-images.githubusercontent.com/55887682/235256891-d57a100f-2495-4541-96e8-39a71cbb884c.png" width="30px" alt="Twitter"></a>
+<a href="https://twitter.com/__prasar__"><img src="https://user-images.githubusercontent.com/55887682/235256891-d57a100f-2495-4541-96e8-39a71cbb884c.png" width="30px" alt="Twitter"></a>&emsp;
+<a href="https://discord.com/users/451436337866866689"><img src="https://github.com/prasarCodes/prasarCodes/assets/55887682/6a4381f2-bec4-4646-a2d9-a76a83115557" width="30px" alt="Discord"></a>
 <br>
 ### or drop an Email at:
 <a href="mailto:hi@pratyay.email">hi@pratyay.email</a><br>
+
 
 ---
 
