@@ -2,6 +2,7 @@
 
 # 💫 Hi!👋, Pratyay here!<br>
 <img align="right" src="https://i.imgur.com/Or3V7vh.gif" width="450px"/>
+<!-- Gif credits: https://giphy.com/mrurbinaco -->
 <div align="left">
 🔭 I’m currently working on improving my skills<br>
 👯 I’m looking to collaborate on open-source projects<br>
