@@ -4,11 +4,10 @@
 <img align="right" src="https://i.imgur.com/Or3V7vh.gif" width="450px"/>
 <!-- Gif credits: https://giphy.com/mrurbinaco -->
 <div align="left">
-🔭 I’m currently working on improving my skills<br>
-👯 I’m looking to collaborate on open-source projects<br>
-🤝 I’m looking for help with everything<br>
-🌱 I’m currently learning Cloud and DevOps<br>
-💬 Ask me about anything
+🔭 I’m currently working as a Software Engineer<br>
+🤝 I’m looking for remote full-time opportunities<br>
+🌱 I’m learning System Design and improving my skills<br>
+💬 Ask me anything
 </div>
 
 <br>
@@ -38,19 +37,12 @@
 <a href="https://discord.com/users/451436337866866689"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="30px" alt="Discord"></a>&emsp;
 <a href="https://www.linkedin.com/in/pratyay-sarkar/"><img src="https://user-images.githubusercontent.com/55887682/235256793-b0b5c3f5-8016-4243-95d8-0f920299fcc3.png" width="30px" alt="LinkedIn"></a>&emsp;
 <a href="https://www.instagram.com/__prasar__/"><img src="https://user-images.githubusercontent.com/55887682/235256819-0f87192a-ab70-4f6f-9c0e-bdbd2a5918fe.png" width="30px" alt="Instagram"></a>&emsp;
-<a href="https://twitter.com/__prasar__"><img src="https://user-images.githubusercontent.com/55887682/235256891-d57a100f-2495-4541-96e8-39a71cbb884c.png" width="30px" alt="Twitter"></a>
 <br>
 ### or drop an Email at:
-<a href="mailto:hi@pratyay.email">hi@pratyay.email</a><br>
+<a href="mailto:pratyay.sarkar17@gmail.com">pratyay.sarkar17@gmail.com</a><br>
 
 
 
 ---
-
-![Snake animation](https://github.com/prasarCodes/prasarCodes/blob/output/github-contribution-grid-snake.svg)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=prasarCodes&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
